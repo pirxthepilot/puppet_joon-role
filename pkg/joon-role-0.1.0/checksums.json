@@ -1,0 +1,11 @@
+{
+  "README.md": "f8a6042d0682a034c0c261b02791ca3e",
+  "metadata.json": "a170dd3886a63dc46cd86000675f12eb",
+  "spec/classes/init_spec.rb": "b449fd0f81aa5a5f8cf49e8de9089413",
+  "manifests/centos6/baseline.pp": "798be921c816e5bed986c80fdbdc7c23",
+  "manifests/init.pp": "429de555cfc8567ba6f2f4dd477249f9",
+  "tests/init.pp": "b9e27e86b26e44ffad77bd2db170e079",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc"
+}
