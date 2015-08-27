@@ -1,11 +1,13 @@
 {
-  "manifests/centos6/basic.pp": "ec1ed996b979c7d61b7c8cb7cded7e57",
-  "tests/init.pp": "b9e27e86b26e44ffad77bd2db170e079",
-  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "README.md": "f8a6042d0682a034c0c261b02791ca3e",
   "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
-  "spec/classes/init_spec.rb": "b449fd0f81aa5a5f8cf49e8de9089413",
+  "metadata.json": "a170dd3886a63dc46cd86000675f12eb",
+  "tests/init.pp": "b9e27e86b26e44ffad77bd2db170e079",
   "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
-  "metadata.json": "05f8a589154d3cf3ee49db8124d35c25",
-  "manifests/init.pp": "429de555cfc8567ba6f2f4dd477249f9",
-  "README.md": "f8a6042d0682a034c0c261b02791ca3e"
+  "manifests/centos6/basic.pp": "ec1ed996b979c7d61b7c8cb7cded7e57",
+  "deploy_puppet_module.sh": "b9c142ec0311f0eb0410c129cb7c2a2b",
+  "spec/classes/init_spec.rb": "b449fd0f81aa5a5f8cf49e8de9089413",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/centos6/basic-prod.pp": "df9e0b59a7fbe72d3f6b4c164992f581",
+  "manifests/init.pp": "429de555cfc8567ba6f2f4dd477249f9"
 }
